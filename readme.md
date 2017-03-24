@@ -1,4 +1,4 @@
-# Pweeter
+# Pweetter
 
 This is a Pweetter software. Compile the using  then modify your peer properties in the properties file you can start playing with it.
 
